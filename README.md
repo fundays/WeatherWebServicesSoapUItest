@@ -77,8 +77,8 @@ GetFlowTwo
 
   - step1: getSupportProvience
   
-  - step2: Property Transfer
+  - Property Transfer
   
-  - step3: getSupportCityString
+  - step2: getSupportCityString
 
   - Load Tests
