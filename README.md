@@ -1,5 +1,7 @@
 # WeatherWebServicesSoapUItest
 
+The soapUI test project include test steps for function test, End2End integration test, Assertions, load tests with threads set as 5 - 10 and mock test suites for security test. This can be further extended to test on JDBC request and integrate with Groovy scripts to load web's cookies and etc. The load test here can be converted into LoadUI tests. Will make further improvement when have time. 
+
 ## EndPoint
 
 http://ws.webxml.com.cn/WebServices/WeatherWS.asmx 
