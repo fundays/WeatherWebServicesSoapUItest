@@ -84,3 +84,61 @@ GetFlowTwo
   - step2: getSupportCityString
 
   - Load Tests
+
+Further Extension:
+
+## Build test suites - Assertions 
+
+-- xpath Match 
+
+-- xQuery Match 
+
+-- Script Assertion 
+
+-- JMS (Status , timeout )
+
+-- Security (Sensitive Information Exposure )
+
+-- SLA 
+
+-- Compliance, Status, and Standards
+
+## Settings
+
+SSL Setting 
+
+UI Setting 
+
+WS-A Setting 
+
+Web Recording Setting 
+
+## Load test 
+Strategy
+  
+  Burst 
+  
+  Simple 
+  
+  Thread 
+  
+  Variance 
+
+## Security Scan 
+
+Boundary Scan
+
+Cross Site Scripting
+
+Custom Script 
+
+Fuzzing Scan
+
+Invalid Types
+
+Malformed XML
+
+Malicious Attachment
+
+SQL Injection 
+
