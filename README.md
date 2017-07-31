@@ -1,0 +1,2 @@
+# WeatherWebServicesSoapUItest
+soapUI 
